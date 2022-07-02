@@ -5,4 +5,4 @@
 
 ― Dr. Seuss
 
-![](https://komarev.com/ghpvc/?username=truongtv1399it)
+![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
