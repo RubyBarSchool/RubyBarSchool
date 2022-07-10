@@ -1,7 +1,7 @@
 # About Me
 
 
-## Insanity is doing the same thing, over and over again, but expecting different results. ― Narcotics Anonymous
+##  There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle. ― Albert Einstein
 
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
