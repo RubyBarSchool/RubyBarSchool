@@ -1,7 +1,7 @@
 # About Me
 
 
-## LSometimes people are beautiful. Not in looks. Not in what they say. Just in what they are. ― Markus Zusak, I Am the Messenger
+## Life is like riding a bicycle. To keep your balance, you must keep moving. ― Albert Einstein
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![rubybarschool's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=dracula)
