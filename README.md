@@ -1,7 +1,7 @@
 # About Me
 
 
-## Life is like riding a bicycle. To keep your balance, you must keep moving. ― Albert Einstein
+## Reality continues to ruin my life. ― Bill Watterson, The Complete Calvin and Hobbes
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![rubybarschool's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=dracula)
