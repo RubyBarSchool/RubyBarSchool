@@ -1,7 +1,7 @@
 # About Me
 
 
-##  This too, shall pass. —Anonymous
+##  Keep your eyes on the stars and your feet on the ground. —Theodore Roosevelt
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![rubybarschool's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=dracula)
