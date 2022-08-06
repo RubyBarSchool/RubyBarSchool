@@ -1,7 +1,7 @@
 # About Me
 
 
-##  Faith is the art of holding on to things your reason has once accepted, in spite of your changing moods. —C.S. Lewis
+##  Life’s too mysterious to take too serious. —Mary Engelbreit
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![rubybarschool's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=dracula)
