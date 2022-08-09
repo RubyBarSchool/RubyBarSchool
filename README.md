@@ -1,7 +1,7 @@
 # About Me
 
 
-##  The woman who follows the crowd will usually go no further than the crowd. The woman who walks alone is likely to find herself in places no one has been before. —Albert Einstein
+##  You can’t go around building a better world for people. Only people can build a better world for people. Otherwise it’s just a cage. —Terry Pratchett, Witches Abroad
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![rubybarschool's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=dracula)
