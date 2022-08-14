@@ -1,7 +1,7 @@
 # About Me
 
 
-##   It’s not about how hard you can hit; it’s about how hard you can get hit and keep moving forward. —Rocky Balboa, Rocky
+## The trick in life is learning how to deal with it. —Helen Mirren
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![rubybarschool's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=dracula)
