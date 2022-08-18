@@ -1,7 +1,7 @@
 # About Me
 
 
-## I can be changed by what happens to me but I refuse to be reduced by it. —Maya Angelou
+## Believe you can and you’re halfway there. —T. Roosevelt
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![rubybarschool's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=dracula)
