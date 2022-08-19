@@ -1,7 +1,7 @@
 # About Me
 
 
-## Believe you can and you’re halfway there. —T. Roosevelt
+## Defeat is simply a signal to press onward. —Helen Keller
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![rubybarschool's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=dracula)
