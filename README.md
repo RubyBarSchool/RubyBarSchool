@@ -1,7 +1,7 @@
 # About Me
 
 
-## Nothing in life is to be feared; it is only to be understood. Now is the time to understand more so that we may fear less. —Marie Curie
+## There is no elevator to success — you have to take the stairs. —Anonymous
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![rubybarschool's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=dracula)
