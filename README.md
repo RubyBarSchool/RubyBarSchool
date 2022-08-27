@@ -1,7 +1,7 @@
 # About Me
 
 
-## Very little is needed to make a happy life; it is all within yourself, in your way of thinking. — Marcus Aurelius
+## Life is like playing a violin in public and learning the instrument as one goes on — Samuel Butler
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![rubybarschool's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=dracula)
