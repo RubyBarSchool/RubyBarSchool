@@ -1,7 +1,7 @@
 # About Me
 
 
-## Believe that life is worth living and your belief will help create the fact. — William James
+## Do not take life too seriously. You will never get out of it alive. — Elbert Hubbard
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![rubybarschool's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=dracula)
