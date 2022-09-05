@@ -1,7 +1,7 @@
 # About Me
 
 
-## What lies behind you and what lies in front of you, pales in comparison to what lies inside of you. — Ralph Waldo Emerson
+## Don’t gain the world and lose your soul, wisdom is better than silver or gold. — Bob Marley
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![rubybarschool's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=dracula)
