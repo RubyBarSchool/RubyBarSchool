@@ -1,7 +1,7 @@
 # About Me
 
 
-## If you want to live a happy life, tie it to a goal, not to people or things. — Albert Einstein
+## You can be the ripest, juiciest peach in the world and there’s still going to be someone who hates peaches. — Dita Von Teese.
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![rubybarschool's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=dracula)
