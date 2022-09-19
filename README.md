@@ -1,7 +1,7 @@
 # About Me
 
 
-## I’m not lazy. I’m just on my energy saving mode.
+## You never know what you have until… you clean your room.
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![rubybarschool's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=dracula)
