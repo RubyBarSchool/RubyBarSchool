@@ -1,7 +1,7 @@
 # About Me
 
 
-## People say nothing is impossible, but I do nothing everyday.
+## Light travels faster than sound. This is why some people appear bright until you hear them speak . — Alan Dundes
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![rubybarschool's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=dracula)
