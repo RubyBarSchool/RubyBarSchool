@@ -1,7 +1,7 @@
 # About Me
 
 
-##  You can’t always control who walks into your life… but you can control which window you throw them out of.
+##  I never make the same mistake twice. I make it like five or six times, you know, just to be sure.
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![rubybarschool's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=dracula)
