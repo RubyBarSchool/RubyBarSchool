@@ -1,7 +1,7 @@
 # About Me
 
 
-##  I never make the same mistake twice. I make it like five or six times, you know, just to be sure.
+##  Don’t cry because it’s over, smile because it happened. ― Dr. Seuss
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![rubybarschool's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=dracula)
