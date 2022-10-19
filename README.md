@@ -1,7 +1,7 @@
 # About Me
 
 
-##  Life is what happens to us while we are making other plans. ― Allen Saunders
+##   I may not have gone where I intended to go, but I think I have ended up where I needed to be. ― Douglas Adams, The Long Dark Tea-Time of the Soul
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![rubybarschool's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=dracula)
