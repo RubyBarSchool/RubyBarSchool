@@ -1,7 +1,7 @@
 # About Me
 
 
-##  Sometimes people are beautiful. Not in looks. Not in what they say. Just in what they are. ― Markus Zusak, I Am the Messenger
+##  Don’t cry because it’s over, smile because it happened. ― Dr. Seuss
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![rubybarschool's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=dracula)
