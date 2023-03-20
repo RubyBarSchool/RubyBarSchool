@@ -1,7 +1,7 @@
 # About Me
 
 
-##  Good friends, good books, and a sleepy conscience: this is the ideal life. ― Mark Twain
+##  Life is not fair, get used to it! – Bill Gates
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![rubybarschool's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=dracula)
