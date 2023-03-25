@@ -1,7 +1,7 @@
 # About Me
 
 
-##  Life is like a coin. You can spend it anyway you wish, but you only spend it once. – Lillian Dickson.
+##  Today is hard, tomorrow will be worse but the day after tomorrow will be sunshine. – Jack Ma
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![rubybarschool's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=dracula)
