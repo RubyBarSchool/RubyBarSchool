@@ -1,7 +1,7 @@
 # About Me
 
 
-##  It does not do to dwell on dreams and forget to live. – J.K. Rowling, Harry Potter and the Sorcerer’s Stone.
+##   Everything you can imagine is real. – Pablo Picasso
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![rubybarschool's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=dracula)
