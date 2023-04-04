@@ -1,7 +1,7 @@
 # About Me
 
 
-##   Life is not fair, get used to it! – Bill Gates
+##  Life is a story makes yours the best seller. – Reback
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=transparent)
