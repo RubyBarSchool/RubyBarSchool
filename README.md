@@ -1,7 +1,7 @@
 # About Me
 
 
-##  Life is a story makes yours the best seller. – Reback
+##  Life is short. Smile while you still have teeth. – Mallory Hopkins
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=transparent)
