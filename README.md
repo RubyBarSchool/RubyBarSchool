@@ -1,7 +1,7 @@
 # About Me
 
 
-##   Getting ahead in a difficult profession requires avid faith in yourself. That is why some people with mediocre talent, but with great inner drive, go so much further than people with vastly superior talent. – Sophia Loren
+##   Love yourself unconditionally, just as you love those closest to you despite their faults. – Les Brown
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=transparent)
