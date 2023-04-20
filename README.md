@@ -1,7 +1,7 @@
 # About Me
 
 
-##   Love yourself unconditionally, just as you love those closest to you despite their faults. – Les Brown
+##   Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else. – Les Brown
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=transparent)
