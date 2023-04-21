@@ -1,7 +1,7 @@
 # About Me
 
 
-##   Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else. – Les Brown
+## To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment. – Ralph Waldo Emerson
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=transparent)
