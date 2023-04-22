@@ -1,7 +1,7 @@
 # About Me
 
 
-## To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment. – Ralph Waldo Emerson
+## Nothing in life is to be feared, it’s to be understood. Now is the time to understand more, so that we may fear less. – Marie Curie
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=transparent)
