@@ -1,7 +1,7 @@
 # About Me
 
 
-## Success always comes to those who dare to act and seldom comes close to those who are too coward to take the consequences. – Jawaharlal Nehru
+## Enjoy the little things in life for one day you’ll look back and realize they were the big things. – Kurt Vonnegut
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=transparent)
