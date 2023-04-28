@@ -1,7 +1,7 @@
 # About Me
 
 
-## Enjoy the little things in life for one day you’ll look back and realize they were the big things. – Kurt Vonnegut
+## When life gives you a hundred reasons to cry, show life that you have a thousand reasons to smile. – Stephenie Meyer
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=transparent)
