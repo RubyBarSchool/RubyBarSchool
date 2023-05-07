@@ -1,7 +1,7 @@
 # About Me
 
 
-## Don’t wait for the perfect moment, take the moment and make it perfect. – Zoey Sayward 
+## People have different reasons for the way they live their life. You cannot put everyone’s reasons in the same box – Kevin Spacey.
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=transparent)
