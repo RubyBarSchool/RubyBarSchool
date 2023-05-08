@@ -1,7 +1,7 @@
 # About Me
 
 
-## People have different reasons for the way they live their life. You cannot put everyone’s reasons in the same box – Kevin Spacey.
+## Don’t cry over the past, it’s gone. Don’t stress about the future, it hasn’t arrived. Live in the present and make it beautiful. – Brayden Chronister
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=transparent)
