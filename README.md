@@ -1,7 +1,7 @@
 # About Me
 
 
-## Don’t cry over the past, it’s gone. Don’t stress about the future, it hasn’t arrived. Live in the present and make it beautiful. – Brayden Chronister
+##  It’s better to cross the line and suffer the consequences than to just stare at the line for the rest of your life. – Anonymous
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=transparent)
