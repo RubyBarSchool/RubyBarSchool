@@ -1,7 +1,7 @@
 # About Me
 
 
-##  Life is not about waiting for the storm to pass, it’s about learning to dance in the rain. – Vivian Greene
+## A person who never made a mistake never tried anything new. – Albert Einstein
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=transparent)
