@@ -1,7 +1,7 @@
 # About Me
 
 
-## A person who never made a mistake never tried anything new. – Albert Einstein
+## The way to get started is to quit talking and begin doing. – Walt Disney
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=transparent)
