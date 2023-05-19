@@ -1,7 +1,7 @@
 # About Me
 
 
-## Success is most often achieved by those who don’t know that failure is inevitable. – Coco Chanel
+## The two most important days in your life are the day you are born and the day you find out why. – Mark Twain
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=transparent)
