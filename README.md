@@ -1,7 +1,7 @@
 # About Me
 
 
-## The two most important days in your life are the day you are born and the day you find out why. – Mark Twain
+## Believe that life is worth living and your belief will help create the fact. –  William James
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=transparent)
