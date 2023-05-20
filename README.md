@@ -1,8 +1,10 @@
-# About Me
+# About Me.
+
 
 - Short-term goal: To work with projects implemented according to the microservice model and projects with complex system structures.
 - Long-term goal: Become a Technical Architect.
 
+-----------------------------------------------------------------------------------------------------------------
 - I have more than three years of experience in website development.
 - I have experience working with spring framework, scheduling and multithreaded applications. 
 - Knowledge of javascript and vuejs framework.
