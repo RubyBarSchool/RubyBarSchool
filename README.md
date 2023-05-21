@@ -13,7 +13,7 @@
 - Capable of self-study and self-development.
 
 
-## Believe that life is worth living and your belief will help create the fact. –  William James
+## Don’t cry because it’s over, smile because it happened. ― Dr. Seuss
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=transparent)
