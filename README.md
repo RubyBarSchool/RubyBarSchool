@@ -13,7 +13,7 @@
 - Capable of self-study and self-development.
 
 
-## You only live once, but if you do it right, once is enough. ― Mae West
+## In three words I can sum up everything I’ve learned about life: it goes on. ― Robert Frost
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=transparent)
