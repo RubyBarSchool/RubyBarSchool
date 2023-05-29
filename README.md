@@ -13,7 +13,7 @@
 - Capable of self-study and self-development.
 
 
-## It does not do to dwell on dreams and forget to live. ― J.K. Rowling, Harry Potter and the Sorcerer’s Stone
+## Good friends, good books, and a sleepy conscience: this is the ideal life. ― Mark Twain
 ![](https://komarev.com/ghpvc/?username=truongtv1399it&color=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybarschool&show_icons=true&theme=transparent)
