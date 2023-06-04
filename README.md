@@ -13,5 +13,5 @@
 - Capable of self-study and self-development.
 
 
-##  I’m not afraid of death; I just don’t want to be there when it happens. ― Woody Allen
+##  Life isn’t about finding yourself. Life is about creating yourself. ― George Bernard Shaw
 
