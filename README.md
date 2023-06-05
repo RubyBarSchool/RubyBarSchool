@@ -13,5 +13,5 @@
 - Capable of self-study and self-development.
 
 
-##  Life isn’t about finding yourself. Life is about creating yourself. ― George Bernard Shaw
+## Sometimes people are beautiful. Not in looks. Not in what they say. Just in what they are. ― Markus Zusak, I Am the Messenger
 
