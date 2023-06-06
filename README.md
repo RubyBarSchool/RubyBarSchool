@@ -13,5 +13,5 @@
 - Capable of self-study and self-development.
 
 
-## Sometimes people are beautiful. Not in looks. Not in what they say. Just in what they are. ― Markus Zusak, I Am the Messenger
+##Life is like riding a bicycle. To keep your balance, you must keep moving. ― Albert Einstein
 
