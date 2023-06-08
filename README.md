@@ -13,5 +13,5 @@
 - Capable of self-study and self-development.
 
 
-## Life is like riding a bicycle. To keep your balance, you must keep moving. ― Albert Einstein
+## Reality continues to ruin my life. ― Bill Watterson, The Complete Calvin and Hobbes
 
