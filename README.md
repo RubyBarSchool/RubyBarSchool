@@ -13,5 +13,5 @@
 - Capable of self-study and self-development.
 
 
-## Reality continues to ruin my life. ― Bill Watterson, The Complete Calvin and Hobbes
+##  Things change. And friends leave. Life doesn’t stop for anybody. ― Stephen Chbosky, The Perks of Being a Wallflower
 
