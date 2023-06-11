@@ -13,5 +13,4 @@
 - Capable of self-study and self-development.
 
 
-##  Things change. And friends leave. Life doesn’t stop for anybody. ― Stephen Chbosky, The Perks of Being a Wallflower
-
+## You should learn from your competitor, but never copy. Copy and you die. – Jack Ma
