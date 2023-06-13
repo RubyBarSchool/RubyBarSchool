@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## When someone loves you, the way they talk about you is different. You feel safe and comfortable. ― Jess C. Scott, The Intern
+## But better to get hurt by the truth than comforted with a lie. ― Khaled Hosseini
