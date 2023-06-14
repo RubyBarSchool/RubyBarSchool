@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## But better to get hurt by the truth than comforted with a lie. ― Khaled Hosseini
+## We are all in the gutter, but some of us are looking at the stars. ― Oscar Wilde
