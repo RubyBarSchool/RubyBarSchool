@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## This too, shall pass. —Anonymous
+## Keep your eyes on the stars and your feet on the ground. —Theodore Roosevelt
