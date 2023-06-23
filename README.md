@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## Keep your eyes on the stars and your feet on the ground. —Theodore Roosevelt
+## The only person you should try to be better than is the person you were yesterday. —Anonymous
