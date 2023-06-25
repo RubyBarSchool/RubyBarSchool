@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## The only person you should try to be better than is the person you were yesterday. —Anonymous
+## Never be bullied into silence. Never allow yourself to be made a victim. Accept no one’s definition of your life; define yourself. —Harvey Fierstein
