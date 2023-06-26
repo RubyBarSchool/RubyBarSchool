@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## Never be bullied into silence. Never allow yourself to be made a victim. Accept no one’s definition of your life; define yourself. —Harvey Fierstein
+## Faith is the art of holding on to things your reason has once accepted, in spite of your changing moods. —C.S. Lewis
