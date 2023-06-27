@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## Faith is the art of holding on to things your reason has once accepted, in spite of your changing moods. —C.S. Lewis
+## Life’s too mysterious to take too serious. —Mary Engelbreit
