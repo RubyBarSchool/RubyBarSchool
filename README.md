@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## Life’s too mysterious to take too serious. —Mary Engelbreit
+## No one can make you feel inferior without your consent. —Eleanor Roosevelt
