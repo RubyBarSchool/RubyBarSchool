@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## No one can make you feel inferior without your consent. —Eleanor Roosevelt
+## The woman who follows the crowd will usually go no further than the crowd. The woman who walks alone is likely to find herself in places no one has been before. —Albert Einstein
