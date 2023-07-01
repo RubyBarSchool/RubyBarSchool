@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## The woman who follows the crowd will usually go no further than the crowd. The woman who walks alone is likely to find herself in places no one has been before. —Albert Einstein
+## You can’t go around building a better world for people. Only people can build a better world for people. Otherwise it’s just a cage. —Terry Pratchett, Witches Abroad
