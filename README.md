@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## You can’t go around building a better world for people. Only people can build a better world for people. Otherwise it’s just a cage. —Terry Pratchett, Witches Abroad
+## There isn’t a way things should be. There’s just what happens, and what we do. — Terry Pratchett, A Hat Full of Sky
