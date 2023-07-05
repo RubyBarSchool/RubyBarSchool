@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## It’s not about how hard you can hit; it’s about how hard you can get hit and keep moving forward. —Rocky Balboa, Rocky
+## The trick in life is learning how to deal with it. —Helen Mirren
