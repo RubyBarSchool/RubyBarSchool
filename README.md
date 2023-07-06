@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## The trick in life is learning how to deal with it. —Helen Mirren
+## If you want to go fast, go alone. If you want to go far, go together. —African proverb
