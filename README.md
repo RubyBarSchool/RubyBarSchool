@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## If you want to go fast, go alone. If you want to go far, go together. —African proverb
+## It’s OK to not be OK, as long as you don’t stay that way. —Anonymous
