@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## It’s OK to not be OK, as long as you don’t stay that way. —Anonymous
+## I can be changed by what happens to me but I refuse to be reduced by it. —Maya Angelou
