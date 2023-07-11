@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## I can be changed by what happens to me but I refuse to be reduced by it. —Maya Angelou
+## Believe you can and you’re halfway there. —T. Roosevelt
