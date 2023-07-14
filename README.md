@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## Believe you can and you’re halfway there. —T. Roosevelt
+## Defeat is simply a signal to press onward. —Helen Keller
