@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## Nothing in life is to be feared; it is only to be understood. Now is the time to understand more so that we may fear less. —Marie Curie
+## There is no elevator to success — you have to take the stairs. —Anonymous
