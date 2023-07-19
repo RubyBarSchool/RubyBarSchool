@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## There is no elevator to success — you have to take the stairs. —Anonymous
+## Don’t cry because it’s over, smile because it happened. ― Dr. Seuss
