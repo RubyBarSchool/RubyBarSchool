@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## You’ve gotta dance like there’s nobody watching, love like you’ll never be hurt, sing like there’s nobody listening, and live like it’s heaven on earth. ― William W. Purkey
+## You only live once, but if you do it right, once is enough. ― Mae West
