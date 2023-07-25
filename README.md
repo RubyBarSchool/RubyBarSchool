@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## You only live once, but if you do it right, once is enough. ― Mae West
+## In three words I can sum up everything I’ve learned about life: it goes on. ― Robert Frost
