@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## To live is the rarest thing in the world. Most people exist, that is all. ― Oscar Wilde
+## Insanity is doing the same thing, over and over again, but expecting different results. ― Narcotics Anonymous
