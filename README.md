@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## Insanity is doing the same thing, over and over again, but expecting different results. ― Narcotics Anonymous
+## It does not do to dwell on dreams and forget to live. ― J.K. Rowling, Harry Potter and the Sorcerer’s Stone
