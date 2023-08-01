@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## It does not do to dwell on dreams and forget to live. ― J.K. Rowling, Harry Potter and the Sorcerer’s Stone
+## Good friends, good books, and a sleepy conscience: this is the ideal life. ― Mark Twain
