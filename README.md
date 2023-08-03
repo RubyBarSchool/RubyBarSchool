@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## I may not have gone where I intended to go, but I think I have ended up where I needed to be. ― Douglas Adams, The Long Dark Tea-Time of the Soul
+## Everything you can imagine is real. ― Pablo Picasso
