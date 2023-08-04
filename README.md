@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## Everything you can imagine is real. ― Pablo Picasso
+## Sometimes the questions are complicated and the answers are simple. ― Dr. Seuss
