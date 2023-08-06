@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## Sometimes the questions are complicated and the answers are simple. ― Dr. Seuss
+## Behind every successful man stands a surprised mother-in-law. — Hubert Humphrey
