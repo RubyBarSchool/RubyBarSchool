@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## Behind every successful man stands a surprised mother-in-law. — Hubert Humphrey
+## The man who can smile when things go wrong has thought of someone else he can blame it on —Robert Bloch
