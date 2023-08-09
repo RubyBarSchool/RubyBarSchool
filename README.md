@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## The man who can smile when things go wrong has thought of someone else he can blame it on —Robert Bloch
+## Before you criticize someone, you should walk a mile in their shoes. That way when you criticize them, you are a mile away from them and you have their shoes. —Jack Handey
