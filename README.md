@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## Before you criticize someone, you should walk a mile in their shoes. That way when you criticize them, you are a mile away from them and you have their shoes. —Jack Handey
+## Men are like bank accounts. Without a lot of money they don’t generate a lot of interest. —Anonymous
