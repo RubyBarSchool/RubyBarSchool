@@ -13,4 +13,4 @@
 - Capable of self-study and self-development.
 
 
-## Men are like bank accounts. Without a lot of money they don’t generate a lot of interest. —Anonymous
+## Don’t cry because it’s over, smile because it happened. ― Dr. Seuss
